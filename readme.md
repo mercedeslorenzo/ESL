@@ -1,7 +1,7 @@
 ← [Back to Menu](https://telinkgithub.github.io/Telink/ "Menu")
 ![header-telink](https://i.imgur.com/5kRG6CF.jpg)
 
-- [ESL](https://telinkgithub.github.io/App-Specific/ "ESL") →
-- [Mesh](https://telinkgithub.github.io/App-Specific/ "Mesh") →
-- [Mouse](https://telinkgithub.github.io/App-Specific/ "Mouse") →
-- [PC](https://telinkgithub.github.io/App-Specific/ "PC") →
+- [Subcategory1](https://telinkgithub.github.io/App-Specific/ "ESL") →
+- [Subcategory2](https://telinkgithub.github.io/App-Specific/ "Mesh") →
+- [Subcategory3](https://telinkgithub.github.io/App-Specific/ "Mouse") →
+- [Subcategory4](https://telinkgithub.github.io/App-Specific/ "PC") →

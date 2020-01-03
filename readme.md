@@ -1,4 +1,4 @@
-← [Back to Menu](https://telinkgithub.github.io/Telink/ "Menu") / [ESL](https://telinkgithub.github.io/ESL/ "ESL")
+← [Back to Menu](https://telinkgithub.github.io/Telink/ "Menu")
 
 # ESL System Quick Start
 

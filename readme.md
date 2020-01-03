@@ -1,4 +1,5 @@
 ← [Back to Menu](https://telinkgithub.github.io/Telink/ "Menu")
+![header-telink](https://i.imgur.com/5kRG6CF.jpg)
 
 # ESL System Quick Start
 
@@ -63,7 +64,7 @@ __Step 6__: Refresh a picture to node
 ![Step 6-2](https://telinkgithub.github.io/Assets/07_Solutions-ESL/20181023-104931.png)
 
 
-← [View the Project on GitHub](https://github.com/TelinkGithub/item-4 "Menu")
+← [View the Project on GitHub](https://github.com/TelinkGithub/ESL)
 
 
 ![footer-telink](https://telinkgithub.github.io/Assets/General/footer.jpg)

@@ -32,7 +32,7 @@ The development kit provided by Telink demonstrates a complete ESL node referenc
 
 ## Software Download
 
-Download Telink Tools [Burning and Debugging Tool](https://telinkgithub.github.io/Programming-Debugging/)
+Download Telink Tools [Burning and Debugging Tool](https://telinkgithub.github.io/Programming-and-Debugging/)
 
 Download ESL Software [ESL_Software](https://telinkgithub.github.io/Assets/07_Solutions-ESL/ESL_Quick_Guide.zip)
 

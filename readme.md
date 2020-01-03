@@ -39,25 +39,25 @@ Download ESL Software [ESL_Software](https://telinkgithub.github.io/Assets/07_So
 
 ## Quick Setup Guide
 
-1. __Step 1__: First read 4byte flash address from 0x1c000,if it not all 0xff,means it has been joined in a PAN,please erase these to keep it Factory Settings,Then setting Node IEEE Address write some 8byte address in a special flash address from 0x1d000
+__Step 1__: First read 4byte flash address from 0x1c000,if it not all 0xff,means it has been joined in a PAN,please erase these to keep it Factory Settings,Then setting Node IEEE Address write some 8byte address in a special flash address from 0x1d000
 
 ![Step 1](https://telinkgithub.github.io/Assets/07_Solutions-ESL/20181023-100929.png)
 
-2. __Step 2__: Download the bin files to the Node(mcu:8258) and Gateway(mcu:8267)
+__Step 2__: Download the bin files to the Node(mcu:8258) and Gateway(mcu:8267)
 
-3. __Step 3__: Run ESL_Server.exe, Power on Gateway and Node,you can see the dispay of IEEE ADDR on the screen is same as the input in Step1
+__Step 3__: Run ESL_Server.exe, Power on Gateway and Node,you can see the dispay of IEEE ADDR on the screen is same as the input in Step1
 
 ![Step 3](https://telinkgithub.github.io/Assets/07_Solutions-ESL/20181023-093928.png)
 
-4. __Step 4__: Add a New Gateway ,setting Gateway information
+__Step 4__: Add a New Gateway ,setting Gateway information
 
 ![Step 4](https://telinkgithub.github.io/Assets/07_Solutions-ESL/20181022-192103.png)
 
-5. __Step 5__: Add a node in the new PAN ,a simple pan is be builded
+__Step 5__: Add a node in the new PAN ,a simple pan is be builded
 
 ![Step 5](https://telinkgithub.github.io/Assets/07_Solutions-ESL/20181022-191601.png)
 
-6. __Step 6__: Refresh a picture to node
+__Step 6__: Refresh a picture to node
 
 ![Step 6-1](https://telinkgithub.github.io/Assets/07_Solutions-ESL/20181023-104400.png)
 ![Step 6-2](https://telinkgithub.github.io/Assets/07_Solutions-ESL/20181023-104931.png)
